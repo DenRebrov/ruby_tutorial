@@ -10,4 +10,4 @@ end
 
 user = User.new
 
-puts(user.fio, user.profession)
+puts user.fio, user.profession

@@ -44,6 +44,6 @@ car2.set_mark('Iveco')
 car2.set_number('451RSD78')
 car2.set_color('Blue')
 
-puts [car1.type, car1.mark, car1.number, car1.color]
+puts car1.type, car1.mark, car1.number, car1.color
 puts '----'
-puts [car2.type, car2.mark, car2.number, car2.color]
+puts car2.type, car2.mark, car2.number, car2.color

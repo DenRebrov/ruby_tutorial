@@ -8,4 +8,4 @@ computer = Computer.new
 net = Net.new
 host = Host.new
 
-puts(user, computer, net, host)
+puts user, computer, net, host

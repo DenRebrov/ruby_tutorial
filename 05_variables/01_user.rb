@@ -31,4 +31,4 @@ user.set_patronymic('Андреевич')
 
 # binding.irb
 
-puts [user.surname, user.name, user.patronymic]
+puts user.surname, user.name, user.patronymic
